@@ -15,7 +15,7 @@ public class App
         System.out.println(sayHelloToSomeone("Zena"));
         System.out.println(sayHelloToSomeone("Myself"));
         System.out.println(sayGoodbye());
-        System.out.println("This is version 2.0")
+        System.out.println("This is version 2.0");
     }
 
     public static String sayHello(){
